@@ -1,1 +1,1 @@
-# template-repo
+#w5-js-practices
